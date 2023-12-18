@@ -106,6 +106,7 @@ typing_extensions==4.3.0
 tzdata==2022.4
 tzlocal==4.2
 urllib3==1.26.12
+vaderSentiment==3.3.2
 validators==0.22.0
 watchdog==2.1.9
 wcwidth==0.2.5
